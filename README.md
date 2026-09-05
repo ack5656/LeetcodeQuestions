@@ -27,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ack5656/LeetcodeQuestions/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ack5656/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ack5656/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ack5656/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ack5656/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
