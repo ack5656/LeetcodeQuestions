@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ack5656/LeetcodeQuestions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ack5656/LeetcodeQuestions/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ack5656/LeetcodeQuestions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ack5656/LeetcodeQuestions/tree/master/0074-search-a-2d-matrix) |
 ## Math
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ack5656/LeetcodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ack5656/LeetcodeQuestions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
