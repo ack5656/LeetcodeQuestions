@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/ack5656/LeetcodeQuestions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ack5656/LeetcodeQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ack5656/LeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0119-pascals-triangle-ii](https://github.com/ack5656/LeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0200-number-of-islands](https://github.com/ack5656/LeetcodeQuestions/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/ack5656/LeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ack5656/LeetcodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/ack5656/LeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/ack5656/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
