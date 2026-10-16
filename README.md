@@ -142,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/ack5656/LeetcodeQuestions/tree/master/1192-critical-connections-in-a-network) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/ack5656/LeetcodeQuestions/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
