@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ack5656/LeetcodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ack5656/LeetcodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ack5656/LeetcodeQuestions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1192-critical-connections-in-a-network](https://github.com/ack5656/LeetcodeQuestions/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -129,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ack5656/LeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/ack5656/LeetcodeQuestions/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/ack5656/LeetcodeQuestions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/ack5656/LeetcodeQuestions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
