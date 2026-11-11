@@ -164,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0619-biggest-single-number](https://github.com/ack5656/LeetcodeQuestions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/ack5656/LeetcodeQuestions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/ack5656/LeetcodeQuestions/tree/master/0627-swap-sex-of-employees) |
+| [1280-students-and-examinations](https://github.com/ack5656/LeetcodeQuestions/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
