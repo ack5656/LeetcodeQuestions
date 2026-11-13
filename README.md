@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/ack5656/LeetcodeQuestions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/ack5656/LeetcodeQuestions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ack5656/LeetcodeQuestions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ack5656/LeetcodeQuestions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ack5656/LeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ack5656/LeetcodeQuestions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ack5656/LeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/ack5656/LeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0200-number-of-islands](https://github.com/ack5656/LeetcodeQuestions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ack5656/LeetcodeQuestions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ack5656/LeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/ack5656/LeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ack5656/LeetcodeQuestions/tree/master/0994-rotting-oranges) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/ack5656/LeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/ack5656/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/ack5656/LeetcodeQuestions/tree/master/0542-01-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ack5656/LeetcodeQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ack5656/LeetcodeQuestions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/ack5656/LeetcodeQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ack5656/LeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ack5656/LeetcodeQuestions/tree/master/0994-rotting-oranges) |
 ## Hash Table
